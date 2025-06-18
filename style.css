@@ -1,0 +1,14 @@
+ul{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center ;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none;
+}
